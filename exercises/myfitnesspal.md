@@ -16,3 +16,4 @@ Here are some solutions students had for the [MyFitnessPal](myfitnesspal.ipynb) 
 * https://github.com/bentevo/ddd/blob/master/homework01.ipynb
 * https://github.com/Sjoerdklaver/data-driven-design/blob/master/myfitnesspal
 * https://github.com/leonberlang/Exercise-1/blob/master/fitnessapp.py
+* [Shayan](https://github.com/shayan-z/exercises/blob/master/myfitnesspal-shayan.ipynb)
